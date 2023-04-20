@@ -1,0 +1,13 @@
+export const LOADING = "LOADING";
+export const FETCH_SUCCESS = "FETCH_SUCCESS";
+export const FETCH_FAILED = "FETCH_FAILED";
+
+export const GET_CATEGORY = "GET_CATEGORY";
+export const GET_SINGLE_Recipes = "GET_SINGLE_Recipes";
+export const GET_ACTIVE_CATEGORY = "GET_ACTIVE_CATEGORY";
+export const GET_ACTIVE_RECIPE = "GET_ACTIVE_RECIPE";
+export const DELETE_ACTIVE_RECIPE = "DELETE_ACTIVE_RECIPE";
+
+export const HANDEL_ADD_RECIPE = "HANDEL_ADD_RECIPE";
+export const RESET_UPDATE = "RESET_UPDATE";
+export const ADD_COMMENT = "ADD_COMMENT";

@@ -1,0 +1,145 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Italian Food",
+            "category_picture": "https://th.bing.com/th/id/R.dd672ca322c4668699988301be9a6de5?rik=%2fiC7SESRYyS4hw&riu=http%3a%2f%2fwww.italianfusionfestival.com%2fwp-content%2fuploads%2f2017%2f06%2fitalian-food.jpg&ehk=MwqWkvxL1foRlBj5ZMiNXMaRZJ8nXcXeUMKhhoQfu%2fs%3d&risl=1&pid=ImgRaw&r=0",
+            "recipes": [
+                {
+                    "id": 1,
+                    "name": "Spaghetti Bolognese",
+                    "description": "This classic Italian dish is made with ground beef, tomato sauce, and spaghetti noodles.",
+                    "picture": "https://th.bing.com/th/id/OIP.7I4cHCtOZHOkBxZX2v4JPgHaE8?pid=ImgDet&rs=1",
+                    "ingredients": "1 pound ground beef 8 ounces spaghetti noodles. 1 can tomato sauce. 2 cloves garlic, minced 1 onion, chopped. 1 teaspoon salt. 1/2 teaspoon black pepper. 2 tablespoons olive oil.",
+                    "instructions": "Cook spaghetti according to package instructions. Drain and set aside. In a large skillet over medium-high heat, heat olive oil. Add onion and garlic and sauté for 2-3 minutes, or until onion is translucent. Add ground beef and cook until browned, breaking it up into small pieces as it cooks. Add tomato sauce, salt, and pepper, and stir to combine. Bring to a simmer and cook for 5-10 minutes, or until sauce has thickened. Serve spaghetti topped with the sauce.",
+                    "comments": [
+                        {
+                            "userName": "test",
+                            "comment": "test",
+                            "post_id": 1,
+                            "categoryId": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Margherita Pizza",
+                    "description": "This traditional Italian pizza is topped with tomato sauce, mozzarella cheese, and fresh basil.",
+                    "picture": "https://th.bing.com/th?id=OSK.408b7f25ea6c35bf35c3f32feb942ac6&w=320&h=459&c=7&rs=1&qlt=80&o=6&cdv=1&dpr=1.5&pid=16.1",
+                    "ingredients": "1 pizza crust.1 cup tomato sauce.2 cups shredded mozzarella cheese.1/4 cup fresh basil leaves.1 tablespoon olive oil.",
+                    "instructions": "Preheat oven to 450°F. Spread tomato sauce over pizza crust, leaving a small border around the edges. Sprinkle mozzarella cheese over tomato sauce. Bake for 10-12 minutes, or until cheese is melted and crust is crispy. Top with fresh basil leaves and drizzle with olive oil before serving.",
+                    "comments": []
+                },
+                {
+                    "id": 3,
+                    "name": "Tiramisu",
+                    "description": "This classic Italian dessert features layers of espresso-soaked ladyfingers and a light, creamy filling made with mascarpone cheese and whipped cream.",
+                    "picture": "https://www.maricruzavalos.com/wp-content/uploads/2021/02/italian-tiramisu-recipe-1.jpg",
+                    "ingredients": "6 egg yolks.3/4 cup white sugar.2/3 cup milk.1 1/4 cups heavy cream.1/2 teaspoon vanilla extract.8 ounces mascarpone cheese.1/4 cup strong brewed coffee or espresso.1 tablespoon rum. 24 ladyfingers.",
+                    "instructions": "1. In a medium mixing bowl, beat the egg yolks with sugar and vanilla extract until creamy and smooth. \n2. Add the mascarpone cheese to the egg yolk mixture and mix until well combined. \n3. In a separate mixing bowl, beat the egg whites until stiff peaks form. \n4. Gently fold the beaten egg whites into the mascarpone mixture until fully incorporated. \n5. In a shallow dish, mix the espresso and rum together. \n6. Quickly dip the ladyfingers into the espresso mixture and place them in a single layer in a 9x13 inch baking dish. \n7. Spread half of the mascarpone mixture evenly over the ladyfingers. \n8. Repeat the layering with the remaining ladyfingers and mascarpone mixture. \n9. Cover the dish with plastic wrap and chill in the refrigerator for at least 2 hours or overnight. \n10. Before serving, dust the top with cocoa powder or grated chocolate.",
+                    "comments": []
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Mexican Food",
+            "category_picture": "https://th.bing.com/th/id/OIP.0sDOD-piS_vW0zT_LojMFgHaHa?pid=ImgDet&w=736&h=736&rs=1",
+            "recipes": [
+                {
+                    "id": 4,
+                    "name": "Chicken Enchiladas",
+                    "description": "These cheesy enchiladas are filled with seasoned chicken and topped with a spicy tomato sauce.",
+                    "picture": "https://www.theblackpeppercorn.com/wp-content/uploads/2013/08/Chicken-Enchiladas-full-angle-hires.jpg",
+                    "ingredients": "1 pound chicken breasts, cooked and shredded.12 corn tortillas.2 cups shredded cheddar cheese.1 can diced tomatoes with green chilies.1 tablespoon chili powder.1 teaspoon cumin.1/2 teaspoon garlic powder.1/4 teaspoon salt.",
+                    "instructions": "Cook spaghetti according to package instructions. Drain and set aside. In a large skillet over medium-high heat, heat olive oil. Add onion and garlic and sauté for 2-3 minutes, or until onion is translucent. Add ground beef and cook until browned, breaking it up into small pieces as it cooks. Add tomato sauce, salt, and pepper, and stir to combine. Bring to a simmer and cook for 5-10 minutes, or until sauce has thickened. Serve spaghetti topped with the sauce.",
+                    "comments": []
+                },
+                {
+                    "id": 5,
+                    "name": "Guacamole",
+                    "description": "This classic dip is made with mashed avocados, tomato, onion, and lime juice.",
+                    "picture": "https://th.bing.com/th/id/OIP.V5kDJda_2VL3iUG2EUooqAHaGP?pid=ImgDet&rs=1",
+                    "ingredients": "2 ripe avocados, mashed.1 tomato, choppe.1/4 cup chopped onio.1 lime, juice.1/4 teaspoon salt",
+                    "instructions": "Cook spaghetti according to package instructions. Drain and set aside. In a large skillet over medium-high heat, heat olive oil. Add onion and garlic and sauté for 2-3 minutes, or until onion is translucent. Add ground beef and cook until browned, breaking it up into small pieces as it cooks. Add tomato sauce, salt, and pepper, and stir to combine. Bring to a simmer and cook for 5-10 minutes, or until sauce has thickened. Serve spaghetti topped with the sauce.",
+                    "comments": []
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Chinese Food",
+            "category_picture": "https://th.bing.com/th/id/OIP.kldWnCGzv_R5Pnp8txQmVgHaE8?pid=ImgDet&rs=1",
+            "recipes": [
+                {
+                    "id": 6,
+                    "name": "Kung Pao Chicken",
+                    "description": "This spicy stir-fry dish features chicken, peanuts, and vegetables in a savory sauce.",
+                    "picture": "https://i.pinimg.com/originals/84/29/de/8429de40757262e47d8a04324435aae6.jpg",
+                    "ingredients": "1 pound boneless, skinless chicken breasts, cut into bite-size pieces.1 red bell pepper, sliced.1 green bell pepper, sliced.1/2 cup roasted peanuts.2 tablespoons vegetable oil.3 cloves garlic, minced.1 teaspoon ginger, minced.1/4 teaspoon red pepper flakes.1/4 cup soy sauce.2 tablespoons rice vinegar.2 tablespoons brown sugar.1 tablespoon cornstarch.1/4 cup green onions, chopped.",
+                    "instructions": "Cook spaghetti according to package instructions. Drain and set aside. In a large skillet over medium-high heat, heat olive oil. Add onion and garlic and sauté for 2-3 minutes, or until onion is translucent. Add ground beef and cook until browned, breaking it up into small pieces as it cooks. Add tomato sauce, salt, and pepper, and stir to combine. Bring to a simmer and cook for 5-10 minutes, or until sauce has thickened. Serve spaghetti topped with the sauce.",
+                    "comments": []
+                },
+                {
+                    "id": 7,
+                    "name": "Fried Rice",
+                    "description": "This classic Chinese dish is made with rice, vegetables, and protein, all stir-fried together with soy sauce and other seasonings.",
+                    "picture": "https://th.bing.com/th/id/R.e43a76578a54976898e8daf744dbadac?rik=nwnIBJCOHpzT%2bQ&pid=ImgRaw&r=0",
+                    "ingredients": "3 cups cooked rice, chilled.1 cup frozen mixed vegetables.1/2 cup cooked shrimp.2 eggs, beaten.2 tablespoons vegetable oil.1 tablespoon soy sauce.1/4 teaspoon garlic powder.1/4 teaspoon onion powder.1/4 teaspoon black pepper",
+                    "instructions": "Cook spaghetti according to package instructions. Drain and set aside. In a large skillet over medium-high heat, heat olive oil. Add onion and garlic and sauté for 2-3 minutes, or until onion is translucent. Add ground beef and cook until browned, breaking it up into small pieces as it cooks. Add tomato sauce, salt, and pepper, and stir to combine. Bring to a simmer and cook for 5-10 minutes, or until sauce has thickened. Serve spaghetti topped with the sauce.",
+                    "comments": []
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "American Food",
+            "category_picture": "https://cdn.tasteatlas.com/images/toplistarticles/08c818739e4b48ce96d319c16f4cc0ca.jpg",
+            "recipes": [
+                {
+                    "id": 8,
+                    "name": "Burger and Fries",
+                    "description": "This classic American meal features a juicy beef patty, topped with cheese and served with crispy French fries.",
+                    "picture": "https://th.bing.com/th/id/R.02101b30d1eb6700363a97aecdb00b6d?rik=ym2jQWtgNX5gaw&riu=http%3a%2f%2fthemarketplaceeatery.com%2fwp-content%2fuploads%2f2016%2f08%2fBurgers-Fries-6.jpg&ehk=5XZJy0oV0%2bzFPXfXs%2fEOzB1ydKx2ihN4vJp8iVjBr2w%3d&risl=&pid=ImgRaw&r=0",
+                    "ingredients": "1/2 pound ground beef.1 hamburger bun.1 slice cheddar cheese.1/2 cup frozen French fries.1 tablespoon vegetable oil",
+                    "instructions": "Cook spaghetti according to package instructions. Drain and set aside. In a large skillet over medium-high heat, heat olive oil. Add onion and garlic and sauté for 2-3 minutes, or until onion is translucent. Add ground beef and cook until browned, breaking it up into small pieces as it cooks. Add tomato sauce, salt, and pepper, and stir to combine. Bring to a simmer and cook for 5-10 minutes, or until sauce has thickened. Serve spaghetti topped with the sauce.",
+                    "comments": []
+                },
+                {
+                    "id": 9,
+                    "name": "Mac and Cheese",
+                    "description": "This comforting dish is made with tender pasta and a creamy cheese sauce.",
+                    "picture": "https://th.bing.com/th/id/R.10022e3d6379fa86b139cb27bf7f9e53?rik=Pc%2fhMsLrI%2fw3NQ&pid=ImgRaw&r=0",
+                    "ingredients": "8 ounces elbow macaroni.2 tablespoons butter.2 tablespoons all-purpose flour.2 cups milk.2 cups shredded cheddar cheese.1/4 teaspoon salt.1/4 teaspoon black pepper",
+                    "instructions": "Cook spaghetti according to package instructions. Drain and set aside. In a large skillet over medium-high heat, heat olive oil. Add onion and garlic and sauté for 2-3 minutes, or until onion is translucent. Add ground beef and cook until browned, breaking it up into small pieces as it cooks. Add tomato sauce, salt, and pepper, and stir to combine. Bring to a simmer and cook for 5-10 minutes, or until sauce has thickened. Serve spaghetti topped with the sauce.",
+                    "comments": []
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Indian Food",
+            "category_picture": "https://th.bing.com/th/id/OIP.q955cVElt1v1YBoceDGOHgHaE8?pid=ImgDet&rs=1",
+            "recipes": [
+                {
+                    "id": 10,
+                    "name": "Chicken Tikka Masala",
+                    "description": "This creamy, spicy Indian dish features tender chunks of chicken in a rich tomato-based sauce flavored with ginger, garlic, and a variety of aromatic spices.",
+                    "picture": "https://www.modernhoney.com/wp-content/uploads/2018/10/Chicken-Tikka-Masala-7.jpg",
+                    "ingredients": "1 pound boneless, skinless chicken breast, cut into small pieces.1/2 cup plain yogurt.2 cloves garlic, minced.1 tablespoon grated fresh ginger.1 teaspoon garam masala.1/2 teaspoon ground turmeric.1/4 teaspoon cayenne pepper.1/4 teaspoon salt.2 tablespoons vegetable oil.1 onion, chopped.2 cloves garlic, minced.",
+                    "instructions": "Cook spaghetti according to package instructions. Drain and set aside. In a large skillet over medium-high heat, heat olive oil. Add onion and garlic and sauté for 2-3 minutes, or until onion is translucent. Add ground beef and cook until browned, breaking it up into small pieces as it cooks. Add tomato sauce, salt, and pepper, and stir to combine. Bring to a simmer and cook for 5-10 minutes, or until sauce has thickened. Serve spaghetti topped with the sauce.",
+                    "comments": []
+                },
+                {
+                    "id": 11,
+                    "name": "Palak Paneer",
+                    "description": "This classic Indian dish features cubes of paneer cheese in a creamy spinach sauce flavored with ginger, garlic, and aromatic spices.",
+                    "picture": "https://th.bing.com/th/id/OIP.wbwoow_HR1rHwH1YmI5XtAHaE8?pid=ImgDet&rs=1",
+                    "ingredients": "1/2 pound paneer cheese, cut into cubes.2 tablespoons vegetable oil.1 onion, chopped.2 cloves garlic, minced.1 tablespoon grated fresh ginger.1/2 teaspoon ground cumin.1/2 teaspoon ground",
+                    "instructions": "Cook spaghetti according to package instructions. Drain and set aside. In a large skillet over medium-high heat, heat olive oil. Add onion and garlic and sauté for 2-3 minutes, or until onion is translucent. Add ground beef and cook until browned, breaking it up into small pieces as it cooks. Add tomato sauce, salt, and pepper, and stir to combine. Bring to a simmer and cook for 5-10 minutes, or until sauce has thickened. Serve spaghetti topped with the sauce.",
+                    "comments": []
+                }
+            ]
+        }
+    ]
+}
