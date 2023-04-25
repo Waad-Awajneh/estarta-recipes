@@ -61,7 +61,7 @@ export const handleAddNewPost = (recipe) => async (dispatch) => {
 };
 
 export const addComment = (comment) => async (dispatch) => {
-  console.log("fjkekrekhkjhejhjtjhrt");
+  // console.log("fjkekrekhkjhejhjtjhrt");
   await dispatch({ type: CONSTANTS.ADD_COMMENT, payload: comment });
 };
 

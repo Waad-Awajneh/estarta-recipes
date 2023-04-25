@@ -26,3 +26,5 @@ To install the required dependencies, follow these steps:
    The React object will run on http://localhost:3000.
    Conclusion
    With the above instructions, you should now be able to run the React object and JSON server on your local machine. If you encounter any issues or errors, make sure to check your system configuration and dependencies.
+
+demo : https://estarta-recipes-liard.vercel.app/
