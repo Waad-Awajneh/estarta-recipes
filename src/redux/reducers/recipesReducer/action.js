@@ -61,7 +61,6 @@ export const handleAddNewPost = (recipe) => async (dispatch) => {
 };
 
 export const addComment = (comment) => async (dispatch) => {
-  // console.log("fjkekrekhkjhejhjtjhrt");
   await dispatch({ type: CONSTANTS.ADD_COMMENT, payload: comment });
 };
 
@@ -86,7 +85,7 @@ export const updateCategoryInAPI = (updatedCategory) => async (dispatch) => {
   });
   Toast.fire({
     icon: "success",
-    title: "your post published successfully",
+    title: "Added successfully",
   });
   dispatch({ type: CONSTANTS.RESET_UPDATE });
 };
